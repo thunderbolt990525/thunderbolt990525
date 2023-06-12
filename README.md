@@ -5,9 +5,14 @@
 
 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- 🔭 As a Software Engineer, am working & contributing to frontend and backend for building web applications.
-- 🌱 Also React Native mobile application development.
-- ⚡ In free time, solve problems on GeeksforGeeks and read tech articles.
+- 👀 I’m interested in HTML, CSS, JavaScript, React, Redux, Ruby, Rails, Databases and Networking
+- 🔭 As a Software Engineer, am working & contributing to frontend and backend for building web applications
+- 🌱 I’m currently working HTML, CSS, JavaScript, React, Redux, SQL, Ruby, Ruby on Rails, PostgreSQL, MongoDB
+- 👯 I’m looking to collaborate on any exciting project
+- ⚡ In free time, improve skill in the other language (🏃‍♂️ such as C# .NET MAUI 🏃‍♂️)
+- 🤝 Seeking collaborative web development projects
+- 💬 Available to discuss all things web development
+- ✔️ I’m available for remote opportunities
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
@@ -157,31 +162,9 @@ Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderbolt990525&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-  
+ 
 <img src="https://github.com/yannarp/yannarp/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
-<div>
-
-<p align="center" dir="auto">
-  <a align="center" dir="auto" target="_blank" rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/b1530825807a85fe322ca4c3919d0d2b81516bb3909a69bd3f5349ebf26d3b03/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6361726f6c626172626f7361313031267468656d653d64726163756c6126726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135"><img height="195px" src="https://github-profile-trophy.vercel.app/?username=YannaRP&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a>
-  </p>
-</div>
-
-<!--
-**thunderbolt990525/thunderbolt990525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+---
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
 
