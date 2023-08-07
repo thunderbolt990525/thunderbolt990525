@@ -2,7 +2,7 @@
 
 ### 💻 Full-stack Developer
 
-- 👀 I’m interested in HTML, CSS, JavaScript, React, Redux, Ruby, Rails, Databases and Networking
+- 👀 I’m interested in HTML, CSS, JavaScript, React, React-Native, Redux, Ruby, Rails, Databases and Networking
 - 🔭 As a Software Engineer, am working & contributing to frontend and backend for building web applications
 - 🌱 I’m currently working HTML, CSS, JavaScript, React, Redux, SQL, Ruby, Ruby on Rails, PostgreSQL, MongoDB
 - 👯 I’m looking to collaborate on any exciting project
