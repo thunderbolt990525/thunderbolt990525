@@ -1,10 +1,10 @@
 <img width="100%" src="https://camo.githubusercontent.com/3627c8c5c98aca844ff293f20bc6a09298ea8a771d6eb82075e4a3841b1159fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=72ff00&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-### 💻 Full-stack Developer
+### 💻 Full-stack Developer && Shopify Developer
 
-- 👀 I’m interested in HTML, CSS, JavaScript, React, React-Native, Redux, Ruby, Rails, Databases and Networking
+- 👀 I’m interested in HTML, CSS, JavaScript, Shopify, React, React-Native, Redux, Ruby on Rails, Databases and Networking
 - 🔭 As a Software Engineer, am working & contributing to frontend and backend for building web applications
-- 🌱 I’m currently working HTML, CSS, JavaScript, React, Redux, SQL, Ruby, Ruby on Rails, PostgreSQL, MongoDB
+- 🌱 I’m currently working React, Redux, SQL, PostgreSQL, MongoDB, Shopify
 - 👯 I’m looking to collaborate on any exciting project
 - ⚡ In free time, improve skill in the other language (🏃‍♂️ such as C# .NET MAUI 🏃‍♂️)
 - 🤝 Seeking collaborative web development projects
