@@ -9,38 +9,6 @@
   <a href="https://join.skype.com/invite/J9W1Qb8jWROS"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&logo=skype&logoColor=important&message=Contact%20me&style=style=flat&color=important" alt="Badge"/></a>
 </h1>
 
-## **👍 Favourite Skills**
-
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-      </a>
-      <br>React 
-    </td>
-    <td align="center" width="80">
-      <a href="">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/>
-  </a>
-      <br>Golang
-    </td>
-    <td align="center" width="80">
-      <a href="">
-        <img src="https://bryntum.com/wp-content/uploads/2019/03/ts.png" width="60" height="60" alt="Typescript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="80">
-      <a href="">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
-      </a>
-      <br>Angular
-    </td>
-  </tr>
-</table>
-
-
 ## **👍 My Skills**
 
 <table style="font-family:sansserif">
