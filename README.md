@@ -3,10 +3,12 @@
   <img align="center" src="https://github.com/thunderbolt990525/thunderbolt990525/blob/main/logo.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/J9W1Qb8jWROS"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&logo=skype&logoColor=important&message=Contact%20me&style=style=flat&color=important" alt="Badge"/></a>
+  <a href="mailto:nftexpert009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge"/></a>
+  <a href="https://join.skype.com/invite/J9W1Qb8jWROS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Badge"/></a>
+  <a href="https://chat.whatsapp.com/EcblQFDjg472yR3FC0VeQS"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://join.skype.com/invite/J9W1Qb8jWROS"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Badge"/></a>
+  <a href="https://discord.gg/hnswKCEM"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Badge"/></a>
+  <a href="https://join.slack.com/t/dev-wil7543/shared_invite/zt-245a3m91i-Ig74S1jthLLB_U0DDnykHA"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Badge"/></a>
 </h1>
 
 ## **👍 My Skills**
