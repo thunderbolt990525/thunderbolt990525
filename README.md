@@ -2,6 +2,9 @@
 <p align="center">
   <img align="center" src="https://github.com/thunderbolt990525/thunderbolt990525/blob/main/logo.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=thunderbolt990525.thunderbolt990525" />
+<img align="right" src="https://img.shields.io/github/followers/thunderbolt990525?label=Follow&style=social" />
+<h1 align="center"></h1>
 <h1 align="center">
   <a href="mailto:nftexpert009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge"/></a>
   <a href="https://join.skype.com/invite/J9W1Qb8jWROS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Badge"/></a>
